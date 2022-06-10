@@ -33,7 +33,7 @@
     "extra": {
         "branch-alias": {
             "dev-master": "2.4-dev",
-            "dev-avif-decoder": "2.4"
+            "dev-avif-decoder": "2.7-dev"
         },
         "laravel": {
             "providers": [
